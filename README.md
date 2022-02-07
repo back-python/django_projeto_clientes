@@ -1,2 +1,3 @@
-# django-alurareceita2
-Refazendo o projeto, sem o acompanhamento do curso e usando entrega contínua
+# django_projeto_clientes
+
+Validações, filtros, buscas e deploy em uma API com django rest framework
