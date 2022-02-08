@@ -1,1 +1,0 @@
-web: gunicorn alurareceita.wsgi --log-file -
